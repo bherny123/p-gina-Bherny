@@ -1,0 +1,49 @@
+h1 {
+	color: white;
+	background-color: red;
+	text-align: center;
+	border-radius: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+h2 {
+	color: aqua;
+}
+li {
+	color: black;
+}
+body {
+	background-color: beige;
+
+}
+pre {
+	color: yellow;
+	background-color: black;
+}
+#CajaNegra {
+	color: white;
+	background-color: black;
+}
+#CajaRoja {
+	background-color: red;
+}
+#CajaAzul {
+	color: rgb(233, 74, 16);
+	background-color: blue;
+}
+iframe {
+	color: rgb(129, 212, 20);
+}
+img {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
